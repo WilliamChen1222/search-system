@@ -1,0 +1,27 @@
+K11A1117A	蕭曼萍	59F	9580212	112.07.10	蘇豐傑	1.Right hand weakness and nubmenss and right hip numbness, susepct myofacial pain 2.Right hand tremor, suspect essential tremor
+K11A1107A	金娜	29F	4650724	112.07.10	蘇豐傑	1. Critical stenosis at Lt intracranial ICA at ophthalmic segment  s/p Wingspan stent on 7/11 2.Lt hemisphere CVA on 2023/2/23 
+K11A1123A	羅景鴻	41M	7073214	112.07.11	蘇豐傑	
+K11A1106A	潘正萬	65M	4085703	112.07.11	蘇豐傑	1. Acute Lt hemisphrere large CVA with brain edema, thrombosis2. AKI 3.T2DM 4.Hyperlipidemia 5.HTN 6.elevated ESR r/o vasculitis
+K11A1107A	楊林治	92F	7259553	112.07.13	蘇豐傑	1. Acute conciousness disturbance, fever without obvious infection focus, suspect meningitis 2. Elevated CRP, r/o CNS infection and intra-abdominal infection 3. HTN 4. Gallbladder stone with cholecystitis s/p ERCP for 2 times
+K11A1121B	江德福	54M	7130833	112.07.13	蘇豐傑	1.Choroiditis with serous retinal detachment and meningitis, OU, favor Vogt-Koyanagi-Harada disease r/o virus infection 2.HTN 3.T2DM 4.Hyperlpidemia
+K11A1112A	陳玥琁	28F	4315281	112.07.15	蘇豐傑	1.Acute onset diplopia with right side weakness, left pontine lesion 2.Impaired liver function, cause?
+K11A1125B	楊東茂	67M	4885985 112.07.16	蘇豐傑	1.Rt ICA stenosis (61%) for DSA 2.HTN 3.DM 4.Dyslipidemia
+K11A1101A	張黃金葉	95F	4260567	112.07.16	蘇豐傑	1.Speech disturbance, r/o post-itcal, and metabolic encephalopathy 2.Upper Abd tenderness and abd distention r/o gastritis r/o ileus 3.HTN 
+K11A1107B	張振書	38M	4878133	112.07.16	蘇豐傑	1.Alcohol withdrawl seizure 2.Alcoholism 3.Psoriasis vulgaris
+K11A1109B	吳柯銘	68M	4176082	112.07.16	蘇豐傑	1.Suspect Rt pontine infarction 2.DM 3.Dyslipidemia
+K11A1101B	劉李豐	78F	4828574	112.07.12	林舜文	1.Transient consciousness disturbance, r/i VBI, r/o seizure attack, cardiogenic syncope 2.HTN 3.T2DM 4.Peripheral vertigo
+K11A1109C	陳怡君	48F	4328205	112.07.13	林舜文	1. Rt carotid TIA 2. HTN 3. Hyperlipidemia
+K11A1122A	曾寶珠	65F	4900385	112.07.13	林舜文	1. Rt hemisphere CVA 2. hyperlipidemia 3. Lower GI bleeding history 2014/06/19     
+K11A1108C	陳春銀	63M	4148437	112.07.14	林舜文	1. Rt side limbs weakness slurred speech, favor Lt hemisphere CVA 2. old CVA 3. HTN 4. hyperlipidemia 
+K11A1120C	陳怡昌	80M	7155825	112.07.10	龍彥儒	1.GTC, favor provoked by deprivation of sleep, r/o VBI 2.Intracranial and cervical arterial stenoses 3.Dyslipidemia
+K11A1105A	李葉玉英	73F	7088825	112.07.10	龍彥儒	1. Acute Rt hemisphere CVA, thrombotic?, onset 7/10 11:30 2. T2DM(HbA1c:10.6)3. Dyslipidemia(LDL:125)4. Hyperuricermia(Uric acid:7.2)
+K11A1121C	趙柳池	69M	4867194	112.07.11	龍彥儒	1.Subacute Rt hemisphere CVA, thrombotic,onset: 2023/7/4? 2.HTN 3.T2DM4.Hyperlipidemia5.left hemisphere old CVA 6.CAD s/p stenting
+K11A1111A	吳孟輝	59M	4650267	112.07.12	龍彥儒	1.Acute Lt hemisphere CVA, thrombotic, onset:2023/7/11 morning 2.Dyslipidemia 3.HTN 4.T2DM 5.CAD s/p bypass 6.CKD 7.Hyperuricermia
+K11A1106B	曾炳越	72M	4864040	112.07.12	龍彥儒	1 Susp. TIA, Lt carotid artery, NIHSS: 2->0, mRS:0; r/o focal seizure with Todd''s paralysis 2.Old CVA for several times, s/p rtPA  2.Dyslipidemia
+3.HTN 4.Gout
+K11A1111B	許阿貴	72M	2036086	112.07.13	龍彥儒	1. suspected Rt hemisphere CVA for 2 week 2. HTN 3. Dyslipidemia 4. Heart disease 5. history Rt hemisphere CVA with sequale of Lt numbness
+K11A1108B	陳光明	76M	4096141	112.07.14	龍彥儒	1. General tonic posture, postical drowsiness, r/o post-storke seizure, cause 2. Acute on chronic kidney disease, hypovolemia related
+K11A1109A	林柏舟	44M	7099021	112.07.15	龍彥儒	1.Left brachial plexopathy, r/o seizure attack with todd's paralysis 2.Leukocytosis, cause undetermined
+K11A1121C	陳賢德	66M	7259577	112.07.15	龍彥儒	1.Acute left MCA infarction, embolic?, NIHSS:12, mRS:3, onset: 2023/7/12 night
+
+

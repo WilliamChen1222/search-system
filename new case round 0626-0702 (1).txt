@@ -1,0 +1,34 @@
+K11A1107B	張信雄	78M	4944742	112.06.26	林舜文	1. TIA, left ICA territory, ABCD2:5 2. Af  s/p pacemaker under dabigatran, CHA2DS2-VASc score 5 3. Hypertension	
+K11A1110C	黃陳玉蘭	88F	4013033	112.06.26	林舜文	1. Atherosclerotic stenosis (＞50%) at Rt MCA M1-M2 junction, Lt ACA , Rt subclavian artery, Lt VA V1-V2 2. suspect parkinsonism  3. Suspicious for Rt MCA aneurysm (3.3 mm). 4. Active gastric ulcers with recent hemorrhage
+K11A1109C	諶林阿換	85F	4071644	112.06.27	林舜文	1. Rt hemisphere sensorimotor lacunar infarction, NIHSS＝3 2. Fever, r/o bronchopneumonia3. Osteoporosis
+K11A1111B	黃清富	54M	7256982	112.06.27	林舜文	1.GTC 2.Alcoholism  3.History of Gastric ulcer 2022/12/20  4.CKD stage 4	
+K11A1122B	李土	86M	4861346	112.07.01	林舜文	1. Lt putaminal hemorrhage. 2. Hyperlipidemia 3. Hypertension	4. History of syncope
+K11A1120B	黃金龍	72M	4356417	112.07.02	林舜文	1. Lt hemisphere infarction 2.Microcytic anemia
+
+
+K11A1107A	張明春	64F	1107763	112.06.26	龍彥儒	1. Hyperparathyroidism related 2.Suspect Rt hemisphere CVA, thrombosis, NIHSS＝4 -＞2, mRS:2, onset: 19:00, 6/25  
+K11A1107C	戴進	61M	7259304	112.06.26	龍彥儒	1. L thalamus CVA, NIHSS:0, mRS:0, onset: 6/22 2. Hypertension3. CKD, stage 3a
+K11A1126B	林鳳	85F	4907616	112.06.27	龍彥儒	1. Rt CVA, thrombosis, NIHSS:10, mRS:3, onset 06/25.2. Af, CHA2DS2-VASc:6 3. HTN 4. Hyperlipidemia
+K11A1118B	張月娥 	69F	4295657	112.06.28	龍彥儒	1.Herpes zoster with involvement of trigeminal nerve V1 region without eye nor CNS involvement 2.Rt invasive breast cancer
+K11A1111C	詹雅期	39F	7103319	112.06.29	龍彥儒	1. Acute left temporal side blurred vision, suspect MS relapsing2. UTI 3. Suspect mycoplasma infection 4. Hyperlipidemia
+
+K11A1119A	蕭慶雄	80M	4071299	112.06.26	蘇豐傑	1. Acute Lt pons and subacute Lt cerebellar infarction, thrombosis, NIHSS:4, mRS:3, onset on 6/2 2. Hypertension
+3. Hyperlipidemia, LDL: 137 4. COPD, mild disease
+K11A1121C	劉祥俊	54M	3552553	112.06.28	蘇豐傑	1. Suspect left limb todd paralyisis, focal seizure without impaired awarness, onset on 6/28 09:00 2. Suspected Rt carotid TIA  3. Old right basal ganglia infarction
+K11A1126C 	游秀花   	60F	592690	112.06.28	蘇豐傑	1. Acute left hemisphere infarction, NIHSS:3,mRS:1, onset on 6/25 night 2. Hyperlipidemia, LDL: 138 3.Goiter
+K11A1120A	林林池	71M	7259382	112.06.30	蘇豐傑	1. Acute Rt hemisphere infarction, NIHSS:6, mRS:3, onset on 6/29 morning (7AM) 2. HTN
+K11A1106B	陳連盛	87M	4810200	112.07.01	蘇豐傑	1.Poor intake r/o ileus r/o abdominal infection like cholecystisis, pancreatitis due to GB stone history 2.Severe dementia 	3.HCV
+K11A1119B	陳德和	60M	3384414	112.07.01	蘇豐傑	1.Vertigo r/o peripheral vertigo r/o VBI 2.HTN 
+K11A1123B	何佳倩	47F	4917395	112.07.02	蘇豐傑	1.Acute/subacute Rt caudate nucelus and putament infarction 2.Focal seizure with impaired awareness, foci:right frontal lobe 3.Autoimmune thyroid disease with hyperthyroidism, anti-TPO(+),anti-THYG(+),anti-TSHR(+)
+K09C0975	黃世麒	54M	7155599	112.06.27	朱俊學	1. Rt hemisphere infarction, thrombosis, MCA territory, NIHSS: 22, mRS: 5, onset 6/26 2. heart failure 3. 2 vessels CAD s/p stenting
+
+f/u
+K11A1119B	謝達銘	63M	4818669	112.06.19	林舜文	 f/u stent  
+
+
+
+
+
+
+
+

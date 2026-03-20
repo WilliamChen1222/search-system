@@ -1,0 +1,35 @@
+
+K11A1109A	黃阿柊	75M	7177811	112.08.28	朱俊學	1. Acute left hemisphere infarction 2. DM 3. HTN 4. Hyperlipidemia
+K11A1119B	劉德和	77M	986020	112.08.29	朱俊學	1. Acute left midbrain infarction 2. DM 
+K11A1109B	康良建	55M	4097778	112.08.29	朱俊學	1. Acute right temporo-occipital infarction, NIHSS:2 2. HTN 3. DM 4. Hyperlipidemia
+K11A1118B	葉江燕	87F	4095649	112.08.29	朱俊學	1. Cervical 4th to 6th radiculomyelopathy mix with polyneuropathy 2. DM 3. Dyslipidemia
+K11A1106C	陳慶麟	52M	4837616	112.08.30	朱俊學	1. Acute recurrent  Rt hemisphere CVA 2.HTN 3.Hyperlipidemia 4.OSA 5. old ICH on Rt putamen 6. old CVA on Rt hemisphere
+K11A1109B	莊鐘爐	76M	3003776	112.09.01	朱俊學	1. Acute ischemic stroke in Rt pons 2. Prostate cancer s/p RARP in 2017 3.Gastric ulcer	
+K11A1121C	李步雲	49M	7110850	112.09.01	朱俊學	1. Acute ischemic stroke in Rt lower pontine, upper medullary, and Rt medial frontal subcortical region 2.HTN 3.DM
+
+
+K11A1110A	蘇玉娟	63F	4040681	112.08.29	彭宗義	1. Suspected VBI, r/o acute brainstem infarction 2. CAD 3. Dyslipidemia 4. OSA
+K11A1123B	簡家澧	36M	4863933	112.08.29	彭宗義	1. Headache with right limb weakness 2. HTN 3. Chest rightness, r/o CAD
+K11A1110B	許秋敏	56F	4128177	112.08.30	彭宗義	1. Refractory epilepsy, r/o focal atonic seizure 2. Mental retardation
+K11A1121A	阮文卿	73M	7095899	112.08.30	彭宗義	1. Acute left hemisphere infarction, NIHSS:4 2. DM 3. HTN 4. Hyperlipidemia
+K11A1112B	賴黃花	84F	7260174	112.09.02	彭宗義	1. Acute Rt hemisphere infarction, thrombotic?, 2. HTN
+K11A1126B	吳武吉	77M	4939070	112.09.02	彭宗義	1. Acute Lt pons infarction, thrombotic 2. AKI 3. Hyperkalemia 4. DM 5.HTN 6.CAD
+
+
+K11A1121C	張燕燕	73F	4036848	112.08.28	黃雯怡	1. Lt carotid TIA 2.Parkinson's disease 3.Urinary tract infection
+K11A1105C	李銘全	59M	4613068	112.08.28	黃雯怡	1. Acute Rt hemisphere CVA NIHSS:2, mRS:2 2. Dyslipidemia, LDL:114
+K11A1119C	黃阿梅	78F	7181165	112.08.29	黃雯怡	1. Recent infarct at Lt corona radiata onset 2023/08/21 with right side hemiplegia 2. Lt thalamus ICH 3.
+K11A1106B	林益智	48M	7260129	112.08.29	黃雯怡	1. First seizure attack, r/o sleep deprivation related		
+K11A1107B	王偉	92M	4059632	112.08.30	黃雯怡	1. Acute Rt hemisphere infarction, onste time: 2023/8/29 morning 2.Acute pulmonary edema 2. HTN 3. DM 4. cardiac arrthymia s/p pacemaker 5.idiopathic thrombocytopenia
+K11A1108B	黃鴻祥	68M	4051205	112.09.01	黃雯怡	1. Acute Rt hemisphere infarction, suspect thrombosis, NIHSS:0, onset on 8/29 morning 2.UTI
+K11A1113	蕭承源	88M	7170730	112.09.01	黃雯怡	1. Rt hemisphere large infarction, suspect embolic, NIHSS: 22  2. Atrial flutter 3. HTN 4. Hyperlipidemia 5. DM 6.HTN 7.CKD
+K11A1110A	陳後隆	69M	7210512	112.09.03	黃雯怡	1. Bil. MCAs at M1 segements and right ICA at siphon severe stenosis 2. CAD 3.old pons CVA
+
+
+*K09C0975	張志堯	54M	4828887	112.08.30	李光永	1. Acute ischemic CVA in brainstem, midbrain, and bil. cerebellum, onset: 2023/08/30, initial NIHSS: 29, s/p Lt V2-3 IA 2. old Lt pons 3. HTN 4. pre-DM
+*K09C0963	常瑞麟	78M	7231632	112.08.31	李光永	1. Acute CVA in Lt MCA territory, LKN time: 2023/8/30 1200, initial NIHSS: 20, s/p IA 2.T2DM
+K09C0965	蔡許琴	76F	4221213	112.08.31	李光永	1. Suspect convulsive seizure, suspected CVA or metabolic related 2. Respiratory failure s/p ETT+MV at 署基H 3. UTI and pneumonia 4. Elevated CK and Troponin-T level, suspected MI 5. T2DM
+		
+f/u
+K11A1121A	張玉鳳	53F	4239861	112.08.25	彭宗義	1. Left ICA nearly total occlusion 2. DM 3. Hyperlipidemia 4. Thalassemia
+K11A1112B	蔡梓芸	36F	7109493	112.08.23	翁偉捷	1. Acute progressive generalize weakness and pain, r/o myositis 2. Subclinical hypothyroidism

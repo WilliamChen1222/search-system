@@ -1,0 +1,31 @@
+
+K11A1120C	駱昱程	26M	7083834	112.09.18	趙中豪	1. right putamen ICH, ICH volume: 13cc, ICH score: 1
+K11A1113	郭山田	83M	4342448	112.09.19	趙中豪	1. Rt herpes zoster oticus 2. Vertigo, r/o vertebrobasilar insufficiency3. Atrial fibrillation 4. Benign prostatic hyperplasia 
+K11A1108B	田永康	69F	7239170	112.09.20	趙中豪	1. GTC, 1st attack, subsided after Dormicum at other hospital 2. ESRD 3. Af under warfarin 4.HTN 5.Insomnia 
+K11A1120A	李順興	85M	4071886	112.09.21	趙中豪	1. Top of basilar occlusion with infarction at bilateral cerebellar hemisphere, brainstem, midbrain and thalami, embolism, NIHSS:38, mRS:5, onset: susepct 9/21 00:30 2. Atrial fibrillation, CHA2DS2-VASc:6 3. HTN 4.Hyperlipidemia
+K11A1112B	簡月娥	62F	4041867	112.09.24	趙中豪	1. Transient global amnesia . Hyperventilation 3. Mild elevated liver enzyme
+
+
+K11A1126A	鄭錫檉	67M	4889783	112.09.18	彭宗義	1.Rt carotid transient ischemic attack  2.T2DM 3.HTN 4.Old right hemisphere infarction in 2011
+K11A1111B	趙金生	61M	4209265	112.09.19	彭宗義	1.Acute Rt hemisphere infarction with rapidly recovery,admission NIHSS＝0,onset:2023/9/18 12:30 2.HTN 3. Hyperlipidemia
+K11A1119A	賴國連	60M	 7000281	112.09.19	彭宗義	1.Acute ischemic stroke in Rt hemisphere, onset: around 9/19 noon, initial NIHSS: 5, mRS: 2 2.HTN 3. T2DM 4. Hyperlipidemia
+K11A1126C	王福源	48M	4322733	112.09.23	彭宗義	1.Rt CN4 palsy, r/o right midbrain acute infarction
+K11A1120A	王月嬌	70F	4580965	112.09.24	彭宗義	1.Acute Lt pons infarction, NIHSS:6, mRS:4, onset on 9/20 morning 2. T2DM 3. Hyperthyroidism 4. Elevated liver enzyme 5. Bacteriuria
+
+K11A1125A	洪梓源	70M	4527977	112.09.18	翁偉捷	1. Critical stenosis Lt proximal ICA (99%) s/p successful stenting 9/21 2. s/p angioplasty Lt proximal VA orifice 9/21
+K11A1110C	劉錦雲	65F	4119363	112.09.19	翁偉捷	1. Diplopia favored thyroid associated ophthalmopathy, Anti-TSHR: 2.7*, r/o ateriovenous fistula by angioraphy 2.Dyslipidemia, LDL:148
+K11A1107B	王秀珠	70F	7134466	112.09.20	翁偉捷	*1. Acute Rt hemisphere infarction, embolic?, NIHSS: 12(ER)-＞4(after t-PA 2  hours), onset:2023/9/19 night 2.Old Rt pons infarction 3.HTN
+4.Dyslipidemia 
+K11A1113	翁福壽	66M	4947778	112.09.20	翁偉捷	1. Transiet ischemic attack, onset: 09/20 12:30 2. HTN
+K11A1118C	洪雪婷	43F	51014966	112.09.22	翁偉捷	1. Acute ischemic stroke in right hemisphere, last known normal time: unknown, initial NIHSS: 3, mRS: 1, favored thrombosis 2. Multiple old stroke 3. Dyslipidemia
+K11A1120B	陳美玉	69F	4930450	112.09.22	翁偉捷	1. Acute right hemisphere infarction, suspect thrombosis, NIHSS:2, onset on 9/21 or even on 9/20 daytime 2. HTN 3. Hyperlipidemia
+K11A1121B	練武彥	84M	4882951	112.09.24	翁偉捷	1. Progressive gait disturbance and urine incontinence, r/o hydrocephalus in progression 2. Right foot redness, r/o cellulitus  
+
+K09C0966	顧王美緣	76F	4618339	12.09.22	龍彥儒	*1.Acute Rt hemisphere infarction s/p tPA and IA on 2022/9/22, embolic?, NIHSS:38, mRS:5, onset: 2023/9/22 0230 2.Old Rt hemisphere infarction 3.Atrial fibrillation 4.Hypertension 
+
+
+	
+f/u
+K11A1125B	王詹玉女	68F	4219399	112.09.13	翁偉捷	1. Polyneuropathy 2.Chronic kidney disease, stage 4 3.Hypertension 4. Hyperlipidemia
+K11A1109B	涂曉芸	43F	4831341	112.09.14	翁偉捷	1. Suspect Amyotrophic Lateral Scelrosis 2. Elevation of a-FP need to r/o paraneoplastic syndorme
+	

@@ -1,0 +1,33 @@
+
+K11A1123B	葉新興	67M	7232774	112.07.24	翁偉捷	1.Lt hemisphere CVA, HIHHS:6 MRS:4 2.Af 3.hyperlipidemia  ( LDL: 139.2 ) 4.T2DM 5.HTN 6.Lt C5-6 Herniated intervertebral disc disease s/p OP 
+K11A1118B	江秀琴	65F	4264472	112.07.25	翁偉捷	1. suspect Rt cerebellar CVA 2 T2DM 3. HTN under medicine control 4. hyperlipidemia (TG: 1189  )
+K11A1120C	黃福龍	69M	4031525	112.07.25	翁偉捷	1.Acute consciousness disturbance, r/o CVA (akinetic mutism) r/o unpredictable off episode of PD
+K11A1122A	吳美雪	62F	20887069	112.07.27	翁偉捷	1.Syncope,suspected idiopathic autonomic neuropathy  2.Iron defficiency anemia 3.Bipolar affective disorder 4.Rt carotid cave aneurysm S/P stent assisted GDCs embolization on 2006/5/19
+K11A1118A	呂震壽	87M	4292178	112.07.28	翁偉捷	1. Pneumonia 2.Lt side weakness, suspected beclouded state 3.BTI under depakine 4.Suspect parkinsonism, r/o BTI related 4.Dementia
+.K11A1107C	李秀華	58F	4848002	112.07.28	翁偉捷	1. Epilepsy attack r/o UTI related 2. UTI 3. Epilpesy, hypoglycemia encephalopathy related 4.T2DM 5.HTN 6.MDD
+K11A1122B	李明輝	63M	4219573	112.07.29	翁偉捷	1. Acute Lt ICH at centrum semiovale with size 10ml,ICH score＝0 2.HTN 3.Dyslipidemia 4.old CVA
+K11A1120A	陳逢賢	65M	4113532	112.07.25	蘇豐傑	1.Lt radial palsy r/o Rt hemisphere CVA 2.Abnormal Wall thickening of ascending colon r/o malignancy 3.Hyperlipidemia
+K11A1112C	馬慧娟	48F	7053167	112.07.26	蘇豐傑	1.Acute Lt hemisphere CVA, onset on 7/26 07:30, NIHSS:3, mRS:1
+K11A1115A	蔣唐寶環	70F	4866057	112.07.26	蘇豐傑	1.Suspected meningoencephalitis 2. Subacute Lt basal ganglia and external capsule infarction, NIHSS:5, mRS:3, onset on 7/25 3.HTN
+K11A1120B	蔣伍雄	42M	22010279	112.07.27	蘇豐傑	1. GTC susepct poor drug adherence realted 2. Epilepsy history with mediation?  3. Mental retardation
+K11A1120A	陳凱煜	56M	4354101	112.07.28	蘇豐傑	1.Lt parietal ICH, suspect thrombocytopenia related 2.Thromcytopenia & antithrombin deficiency, cause? 3.HCV 4.Macrocytic anemia
+K11A1118B	王君劉	91M	125374	112.07.29	蘇豐傑	1. Acute onset change of consciousness morning, favor Lt hemisphere infarction, thrombosis, NIHSS:33, mRS:5, onset:2023/07/29 04:00 2. Aspiration pneumonia
+K11A1122A	朱美	88F	4862267	112.07.24	朱俊學	1.Central vertigo, favor VBI 2.HTN  3.Dyslipidemia
+K11A1115A	黃惠苑	54F	4934587	112.07.24	朱俊學	1.Acute Lt hemisphere CVA, NIHSS:3, mRS:1, onset:2023/7/22 morning 2.Hyperlipidemia
+K11A1111A	王陳杏	85F	4011963	112.07.25	朱俊學	1.Lt hemisphere CVA r/i ACA territory, thrombosis, NIHSS:4, mRS:3, onset:7/25 morning 2.old CVA 3.HTN 4.Hyperlipidemia
+K11A1108C	黃綠照	80F	1290423	112.07.27	朱俊學	1.Lt limb weakness, suspect right pons infarction, NIHSS:4, mRS:3, onset:7/25 18:00,r/o sequale of L-spine HIVD 2.Normocytic anemia.
+K11A1126B 	林鳳	86F	4907616	112.07.27	朱俊學	1.Rt hemisphere infarction, NIHSS:10, mRS:3, onset 06/25. 2. Af 3. HTN 4. hyperlipidemia
+K11A1107B	徐秋燕	53F	4248270	112.07.29	朱俊學	1.Bell's palsy, onset 2203/07/28 2. Thyroid nodule 3. Myadenomas
+K11A1108B	曾炳越	72M	4864040	112.07.28	朱俊學	1.Recurrent episode Rt extremities weakenss after alcohol intake, but right hand clenching, cause 2.HTN 3.Dyslipidemia 4.Old CVA
+K11A1119B	林瑞明	58M	7259731	112.07.28	朱俊學	1.Rt carotid transient ischemic attack, ABCD2:4 2.HTN 3. Gout
+K11A1126A	周淑香	57F	4143825	112.07.28	朱俊學	1.Progressive tremor, suspect parkinson disease or intracranial lesion susepct at cerebellar or basal ganglion 2. Mild hypokalemia 3.T2DM
+K11A1121B	黃阿梅	78F	7181165	112.07.30	朱俊學	1.Lt thalamus intracranial hemorrhage, volume: 5.6cc, ICH:1. 2. HTN
+K11A1125B	詹明輝	75M	4809381	112.07.30	朱俊學	1.Lt hemisphere CVA, NIHSS:2-＞1, mRS:1, onset 07/30 12:00am 2. HTN 3.Af 4.Dyslipidemia 5.SSS s/p pacemarker. 6. CKD stage 3
+
+
+K09C0975	陳金順	73M	7259710	112.07.26	龍彥儒	**1.Acute Rt hemisphere CVA, M2 superior branch occlusion, onset 7/23 10PM, initial NIHSS＝16, s/p tPA at 7/26 00:25 2. Seizure 3. HTN 4. Af
+K09C0967	陳平	88M	7239386	112.07.29	龍彥儒	**1.Multiple CVA in both anterior and posterior circulation of brain, initial present as left hemisphere infarction, NIHSS＝21 s/p tPA, onset 7/28 4PM 2.Rheumatic moderate MS under warfarin 3.Left atrium myxoma 4.Af 5.HTN 6.Dyslipdiemia 7.T2DM
+K09C0968	孫培貴	72M	7242098	112.07.30	龍彥儒	1. GTC 2. Rt limbs weakness suspected Lt hemisphere infarction 3. hyponatremia 4. elevated crp r/o pneumonia
+
+
+

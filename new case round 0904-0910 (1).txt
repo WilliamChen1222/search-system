@@ -1,0 +1,23 @@
+
+K11A1120C	楊林阿清	83F	4209505	112.09.05	彭宗義	1.Epilepsy 2.old right hemisphere infarction,mRS:3,onset:2021/06/19 3.Chronic kidney disease 4. COPD 5.DM 6.COPD
+K11A1110A	胡炮盛	71M	4208307	112.09.06	彭宗義	1.Lt hemisphere ischemic stroke, NIHSS : 6 Modified Rankin Scale :3. 2. hypertension 3. BPH 4.DM 5.Hyperlipidemia 6. HCV carrier
+K11A1110B	林輝雄	82M	4092432	112.09.06	彭宗義	1.Lt hemisphere infarction, MCA territory, onset:2023/9/6, thrombosis, NIHSS:8, mRS:4 2. HTN 3.Hyperlipidemia
+K11A1126C	 陳振溢	23M	4356164	112.09.08	彭宗義	1.Status epilepsy, r/o infection related 2. Fever, suspect UTI related 3.AKI, KDIGO stage II, suspect infection related 
+
+K11A1109C	曹政勳	66M	579580	112.09.04	朱俊學	1.Rt hemisphere infarction, IHSS:2 , onset 2023/9/3 morning 2. Hyperlipidemia 3. Benign prostatic hyperplasia
+K11A1106C	藍麗柑	73F	8603876	112.09.06	朱俊學	1.Rt hemisphere infarction, NIHSS: 5, mRS: 2 2.Dyslipidemia 3.HTN
+K11A1112A	魏敏雄	82M	7040453	112.09.06	朱俊學	1.Lt hemisphere infarction, MCA territory 2. HTN 3. duodenal ulcer
+K11A1119B	吳天生	69M	4343469	112.09.06	朱俊學	1.Rt hemisphere infarction, embolic 2.Af 3. DM 4. HTN 5. Hyperlipidemia
+K11A1109B	曾盛源	66M	4259300	112.09.07	朱俊學	1.Lt hemisphere CVA, last known normal time: 9/7 1700, initial NIHSS: 4, mRS: 2 2. Dyslipidemia
+K11A1120B	陳總	61M	4825627	112.09.08	朱俊學	1.Rt hemisphere CVA, last known normal time: 2023/09/06 2000, initial NIHSS: 3, mRS: 1  2.HTN
+K11A1119A	倪紀玉燕	67F	4128360	112.09.10	朱俊學	1.Suspect TIA, ABCD2 score:5, onset: 06:30, 9/10, r/o orthostatic hypotension related 2. HTN 3. Dyslipidemia
+
+K11A1109A	簡郭梅花	91F	4144038	112.09.04	黃雯怡	1. Epilepsy attack 2. UTI, U/C: Citrobacter koseri 3.Hyperammonia and thrombocytopenia, suspect depakine related 4. Macrocystic anemia
+K11A1101A	陳美珠	73F	7095484	112.09.07	黃雯怡	1. Provoked seizure attack, by urinary tract infection 2. Urinary tract infection, U/C: Escherichia coli 3. Dyskinesia, PD related 4.DM
+K11A1111B	郭蘇香	83F	4040021	112.09.07	黃雯怡	1.Myesthenia gravis, suspect with acute exerbation 2. CKD, stage 4 3. Dry eye syndrome susepct Sjogeran disease
+K11A1107C	吳宥男	63M	4891347	112.09.08	黃雯怡	1.Suspect Lt hemisphere CVA, r/o posterior circulation 2.History of inflammatory myositis, r/o polymyositis or dermatomyositis 3. MDD
+K11A1118C	陳玉慧 	57F	4147281	112.09.09	黃雯怡	1.Rt hemisphere CVA, initial NIHSS: 3, mRS: 2 2. Polycystic kidney disease 3. HTN
+		
+f/u
+K11A1109B	莊鐘爐	76M	3003776	112.09.01	朱俊學	1. Acute ischemic stroke in Rt pons 2. Prostate cancer s/p RARP in 2017 3.Gastric ulcer
+	

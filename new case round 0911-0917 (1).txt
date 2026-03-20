@@ -1,0 +1,33 @@
+ 
+K11A1101B	高政道	62M	4168093	112.09.11	翁偉捷	1. Lt hemisphere infarction, NIHSS: 3, onset 09/10 09:00 2. Hyperlipidemia
+K11A1121A	李正幸	79M	4245680	112.09.12	翁偉捷	1. Suspect vetebrobasilar insufficiency 2. dementia 3.CAD s/p stenting 3 years ago 4.T2DM 5. HTN 6. BPH
+K11A1111C	陳武	81M	4935630	112.09.12	翁偉捷	1. TIA, ABCD2 score:4, onset: 9/11 2. Suspected CKD 3. T2DM
+K11A1125B	王詹玉女	68F	4219399	112.09.13	翁偉捷	1. Polyneuropathy 2.Chronic kidney disease, stage 4 3.Hypertension 4. Hyperlipidemia
+K11A1108C	劉志學	95M	486989	112.09.14	翁偉捷	1. Suspect Transient ischemic attack, ABCD2 score:5 2.Lt hear herps zoster with deafness 3. BPH
+K11A1109B	涂曉芸	43F	4831341	112.09.14	翁偉捷	1. Suspect Amyotrophic Lateral Scelrosis 2. Elevation of a-FP need to r/o paraneoplastic syndorme
+K11A1126B	陳建益	68M	4150497	112.09.17	翁偉捷	1. Lt hemisphere infarction, lacunlar, NIHSS:1, mRS:1 2.Old bilateral hemisphere infarction 3.T2DM 4.HTN 5.CKD
+
+K11A1119B	潘尼邦布帕	57F	4296875 112.09.11	趙中豪	1. Lt limbs weakness r/o viral encephalitis, r/o autoimmune encephalitis 
+K11A1125A	曾簡麵	92F	1043977	112.09.12	趙中豪	1. Lt carotid artery TIA, ABCD2: 5, mRS:2 2.HTN 3. T2DM 
+K11A1119A	黃陳鳳珠	62F	4154653	112.09.13	趙中豪	1. Acute ischemic stroke at left posterior pontine region, LKN time: 2023/09/12 noon, initial NIHSS: 3, mRS: 2 2. HTN 3. T2DM 4. Dyslipidemia
+K11A1112C	羅遠文	55M	4606879	112.09.14	趙中豪	1. Acute triple plegia with right upper,right lower limb,left lower limb with hypotonia with no DTR,r/o acute right cervicomedullary junction infarction, onset:2023/09/14 2.ESRD s/p H/D 3.HBV carrier 4.HTN 5.DM with retinopathy and nephropathy 6.old CVA 7.cervical spinal injury(C1) since 2013/2/4
+K11A1105C	張曉鐘	75M	4225224	112.09.14	趙中豪	1. Acute infarction in right hemisphere, onset: 2023/9/14 night, initial NIHSS:3, mRS:2 2.HTN 3. T2DM 4.  Asthma
+K11A1106C	廖淑芬	62F	4343646	112.09.14	趙中豪	1. Suspected viral meningitis 2. HTN 3. Dyslipidemia
+K11A1119C	江順益	63M	4890103	112.09.16	趙中豪	1. Acute Rt hemisphere infarction, NIHSS:3 , onset 9/14 2. HTN 3. T2DM 4. CAD
+K11A1107C	謝玉子	81F	4389628	112.09.17	趙中豪	1. Metabolic encephalopathy, favor urinary tract infection related  2. Subacute left occipital infarction 3. HTN
+
+K11A1126B	杜振發	71M	4514219	112.09.11	彭宗義	1.Transient consciousness loss general numbness, r/o seizure attack, r/o cardiogenic syncope 2.Epilepsy  3.Rheumatic mitral valve disease s/p OP under coumadin
+K11A1123A	何明超	61M	4024876	112.09.11	彭宗義	1. suspect VBI 2. HTN 3. Hyperlipidemia
+K11A1123B	余金枝	91F	4212031	112.09.12	彭宗義	1. Recent infarcts at Rt MCA-ACA internal border zone, embolic related, onset:2023/9/12, NIHSS:3 2. UTI 3. Af 4. T2DM 5. CKD
+K11A1108A	林慶輝	76M	4800912	112.09.13	彭宗義	1. Lt hemisphere ischemic stroke 2. Hydrocepahlous 3. HTN
+K11A1105B	張秋吉	80M	4854711	112.09.14	彭宗義	1. Rt hemisphere ischemic stroke, embolic  2. seizure attack 3. aspiration pneumonia 4. UTI 5. DM 6. Dementia
+K11A1107B	簡金水	60M	4093768	112.09.15	彭宗義	1. Acute Rt hemisphere lacunar infarction, susepct thrombosis, NIHSS:3 -＞2(admission), mRS:1, onset:9/15 morning 2. HTN
+K11A1109C	張國隆	81M	4075950	112.09.15	彭宗義	1. Lt hemisphere infarction, NIHSS:3 , onset: 2023/09/14 9:00PM 2. Gout
+K11A1117A	梁永基	77M	390730	112.09.15	彭宗義	1.Acute Lt hemisphere infarction,NIHSS:1,onset:2023/09/14 2.Right shoulder pain
+K11A1111C	羅景鴻	41M	7073214	112.09.16	彭宗義	1.Epilepsy, under depakine (1800mg/D), trileptal (1200mg/D), lyrica (150mg/D), suspect infection provoked seizure 2.Pneumonia 
+
+K09C0973	張建龍	43M	7260343	112.09.16	龍彥儒	1.Acute onset conscious disturbance with limbs twitching, r/i seizure attack, post intubation 2. rhadomyolysis
+	
+f/u
+
+	

@@ -1,0 +1,31 @@
+
+K11A1112A	李台生	67M	4912075	112.07.02	龍彥儒	1. Acute recurrent Rt hemisphrere CVA, rule out focal seizure 2. Post stroke spasiticity3. Lt finger resting tremor4. Type 2 DM5. Dyslipidemia
+K11A1110C	章阿明	67M	4852369	112.07.03	龍彥儒	1.Acute Lt hemisphere infarction, thrombosis2.Hypertension3.Dyslipidemia
+K11A1126C	王榮進	68M	4324862	112.07.03	龍彥儒	1.AcuteLt medullary infarction, thrombotic2.Hypertension3.Type 2 DM4.Dyslipidemia
+K11A1106B 	林新添	76M	1032121	112.07.04	龍彥儒	1.Acute disorientation, confussion status with Lt side weakness suspect Rt hemisphere CVA or Post-ictal with todd paralysis2.MDD
+K11A1119B	王清風	87M	4803127	112.07.05	龍彥儒	1.Acute Lt hemisphrere CVA2.Dyslipidemia3.Hypertension4.Atrial fibrillation
+K11A1122B	張英雄	81M	4074033	112.07.06	龍彥儒	1.Acute delirium,r/o acute ischemic infarction at left frontal white matter, r/o BPSD progression2.Old Rt thalamusCVA3.Dementia4.Depression
+K11A1119A	張素卿	75F	7202859	112.07.09	龍彥儒	1.Acute right hemisphere infarction, thrombotic
+K11A1120C	劉謝錫妹	75F	4054059	112.07.03	蘇豐傑	1.AcuteLt hemisphrere infarction more than 1 week, thrombosis, NIHSS:2, mRS:1, onset: before 6/282.Left M1 aneurysm 4.5mm
+K11A1108A	王玉燕	70F	4387764	112.07.04	蘇豐傑	1. Acute Rt side weakness with neck and shoulder dyskinesia, suspected Lt basal gaglion infarction need to rule out parkinson disease diphesic dyskinesia2.diagnosis of parkison disease3.Atrail fibrillation
+K11A1107A	謝李淑	45F	7031768	112.07.05	蘇豐傑	1.Suspected basilar tip aneurysm2.SLE3.HBV
+K11A1125B	陳麗娟	54F	7003873	112.07.06	蘇豐傑	1.Sensory aphasia and right homonymous hemianopia,favor Lt hemisphere CVA at TPJ 2.Hydartion
+K11A1110C	徐添喜	81M	4106910	112.07.07	蘇豐傑 	1. GTC 2.UTI 3.old Rt hemisphere CVA
+K11A1108B	李銘村	70M	4004310	112.07.03	林舜文	1.Meningitis, r/i bacterial meningitis2.Type 2 DM3.HTN
+K11A1125B	陳坤德	53M	4894280	112.07.03	林舜文	1. Vertigo ataxia, suspect VBI 2. HTN 3. C-spine surgery history=
+K11A1101B	游克遠	 71M	4250750	112.07.04	林舜文	1. Rt acute lateral medullary infarct, probably caused by long-segmental occlusion of right V4 segment 2. HTN 3. hyperlipidemia ( LDL: 192 ) 
+K11A1105C	陳阿蓮	93F	4247667	112.07.04	林舜文	1. Lt pons ischemic stroke, embolic2. Af 3. hyperlipidemia ( LDL: 123)4. Chronic obstructive pulmonary disease	
+K11A1101A	陳逸幸	59F	1096938	112.07.05	林舜文	1. Rt proximal cervical ICA, estimated over 90%, with decreased right ICA flow and poor collaterals2. HTN 3. hyperlipidemia 
+K11A1120B	邱月桂	85F	4264852	112.07.05	林舜文	1. Rt hemisphere ischemic stroke, thrombosis 2.Sick sinus syndrome s/p permanent pacemaker in 2015/10 3.Beta-thalassemia
+K11A1107A	居安國	66M	7002823	112.07.06	林舜文	1.Acute Lt hemisphere CVA 2.hyperlipidemia
+K11A1110B	何徐寶桂	89F	4571623	112.07.06	林舜文	1.GTC with post-ictal confusion,cause undetermined 2. aspiration pneumonia  3. Bradycardia
+K11A1111C	林秀菊	64F	4149902	112.07.07	林舜文	1.Conscious disturbance with fever and limb convulsions,r/i seizure and CNS infection 2.Right subdural hemorrhage s/p right-craniectomy 
+K11A1105B	常希慈	42F	7101301	112.07.08	林舜文	1.Ascending bil lower limb numbness and weakness,r/o cervial-thoracic transverse myelitis(etiology:infection, autoimmune, leptomeningeal carcinomatosis)2.Post punture headache 
+K11A1108A	劉華勇	72M	4647326	112.07.08	林舜文	1.Acute Lt hemisphere CVA
+K11A1126C	蔡文同	57M	7021804	112.07.08	林舜文	1.CIDP, stable under IVIG,steroid,plasmapheresis2.HBV3.DM
+K11A1106B	李榮光 	58M	3210303	112.07.09	林舜文	1.Suspected non-convulsive seizure, r/o delirium related to dementia progression2.young onset Alzihemer disease
+
+f/u
+K11A1111C	詹雅期	39F	7103319	112.06.29	龍彥儒	1. Acute left temporal side blurred vision, suspect MS relapsing2. UTI 3. Suspect mycoplasma infection 4. Hyperlipidemia
+K11A1123B	何佳倩	47F	4917395	112.07.02	蘇豐傑	1.Acute/subacute Rt caudate nucelus and putament infarction 2.Focal seizure with impaired awareness, foci:right frontal lobe 3.Autoimmune thyroid disease with hyperthyroidism, anti-TPO(+),anti-THYG(+),anti-TSHR(+)
+K11A1108C 	詹逸樹	68M 	4652800	112.06.29	林舜文	1.Bil lower limbs and Lt upper limbs weakness, suspected CVA, r/o peripheral neuropathy2. UTI3. suggest pityriasis rosea r/o syphilis

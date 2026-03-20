@@ -1,0 +1,30 @@
+K11A1110A	黃智根	60M	39010035	112.07.17	朱俊學	1.Acute ischemic stroke, Rt hemisphere, mRS:3, thrombosis related 2.T2DM 3.Dyslipidemia 4.HTN
+K11A1125C	鍾瑞熊	70M	7167590	112.07.18	朱俊學	1.Consciousness disturbance, need to rule out seizure attack 2.MDD 3.AD 4.Old ICH 
+K11A1122C	王鄭瓊花	84F	4098500	112.07.19	朱俊學	1.Bilateral subdural effusion and recent right temporal SDH 2.Gait disturbance,r/o VBI,spinal cord disease,radiculopathy 3.Old pons CVA
+K11A1125B	吳劉澄香	78F	4651566	112.07.20	朱俊學	1.Acute Rt hemisphere CVA 2.CKD stage 5 3.SLE 4.HTN 5.Hyperlipidemia
+K11A1126C	陳郁媜	62F	4252576	112.07.20	朱俊學	1.Chronic dizziness with exacerbation in recent 1 month, along with bilateral intention tremor, r/o metabolic causes, r/o cerebellar lesions 2. HTN 3. SLE 4. Thyroid nodules
+K11A1122B	林元榮	71M	10654130	112.07.20	朱俊學	1. Epilpesy 2. HTN 3. BPH 4.old CVA
+K11A1122A	周麗雲	58F	4293409	112.07.21	朱俊學	1.Acute Lt hemisphere CVA, lacunar?, NIHSS:2, mRS:1, onset: 2023/7/19 afternoon 2.hyperlipidemia
+
+K11A1108A	林國富	47M	4944927	112.07.17	翁偉捷	1.Epilepsy 2.Intracranial hypertension 3.Hypertension 4.Hyperlipidemia 5.Reflux esophagitis, LA classification grade B
+K11A1122A	丁爵平	38M	7081171	112.07.17	翁偉捷	1. Rt facial numbness,r/o ischemic stroke 2. suspect complicated migraine 3. hypertension history 4. allergic rhinitis 5. hyperlipidemia 
+K11A1119A	方曹美珍	86F	378916	112.07.18	翁偉捷	1. Memory deteriorating r/o paraneoplastic encephalitis, or seizure 2. HTN 3. old endometrium and cervical cancer
+K11A1109C	曹秀梅	61F	7199404	112.07.18	翁偉捷	1. Epilepsy 2. hypoglycermia 3.ESRD, under H/D 4.Heart failure with severe MR and paroxysmal Af 5.Severe MR s/p mechanical replacement  
+K11A1122B	紀漢川	72M	4087607	112.07.18	翁偉捷	1. Lt hemisphere ischemic stroke NIHSS :4  MRS: 1, thrombosis 2. hyperlipidemia
+K11A1112C	黃明亮	64M	2410926	112.07.19	翁偉捷	1. Recurrent Rt hemisphere ischemic stroke, NIHHS: 3 MRS: 1 2. Dyslipidemia ( LDL: 109 ) 3. CAD with RCA spasm 4. HTN
+K11A1105A	李文寶	59M	4356696	112.07.20	翁偉捷	1. Recurrent Rt hemisphere ischemic stroke 2.T2DM 3.hyperlipidemia 
+K11A1121A	陳達坤	83M	4028560	112.07.20	翁偉捷	1. Lt hemisphere ischemic stroke 2.hx of biliary pancreatitis, for LC 3.T2DM 4.HTN 5.Dyslipidemia 6.CAD,3-V-D,s/p PTCA and stenting
+K11A1109A	黃鳳英	71F	7216463	112.07.22	翁偉捷	1. General weakness with sudden faintness, susepct hypoglycemia or hypokalemia, r/o seizure or BAO 2.HTN 3.hyperlipidemia 4.T2DM
+K11A1125C	陳素卿	64F	4871235	112.07.23	翁偉捷	1.Acute Lt hemisphere CVA, onset on 7/23 08:00, NIHSS:3, mRS:3 2.HTN 3.MDD
+K11A1126A	李春來	57M	7219813	112.07.23	翁偉捷	1.Acute Lt hemisphere CVA, onset on 7/23 11:30, NIHSS:4, mRS:3 2. HTN
+
+
+K11A1112B	張卉羚	81F	4182112	112.07.19	蘇豐傑	1.Acute Lt hemisphere CVA, NIHSS:10,mRS:4 2.Bifrontal SDH s/p TAEs on bilateral distal MMAs on 2023/06/26 3.HTN 4.Dyslipidemia
+K11A1109A	郭鶴松	58M	4562946	112.07.20	蘇豐傑	1.Acute Lt hemisphere CVA, NIHSS:7, mRS:3, onset on 7/17 8:00AM 2.T2DM 3.Hyperlipidemia
+K11A1110C	陳逸幸	59F	1096938	112.07.23	蘇豐傑	1. Focal stenosis at Rt proximal cervical ICA(90%), with decreased right ICA flow and poor collaterals 2. Unstable angina 3. HTN 4. Hyperlipidemia
+
+K09C0965	江世賢	65M	4832974	112.07.21	龍彥儒	1. Acute brainstem CVA,onset on 7/21 3:00AM, NIHSS:25, mRS:5 2. GTC, hyperacute post-stroke epilepsy, s/p ETT+MV 7/21 3. Hypotension, r/o drug or brainstem stroke related neurogenic shock, r/o cardiogenic shock
+K09C0975	廖俊吉	59M	7259676	112.07.23	龍彥儒	1. Acute Rt hemisphere CVA, onset on 7/23 12:30, s/p IV-tPA 0.9mg/kg, NIHSS: 16-＞8, mRS:4 2. HTN 3. Asthma 
+
+
+
