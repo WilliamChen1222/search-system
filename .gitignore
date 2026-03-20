@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 環境與套件
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# PyInstaller 打包產生的暫存與輸出檔
+build/
+dist/
+*.spec
+
+# 編輯器
+.vscode/
+.idea/
+
+# 作業系統
+.DS_Store
+Thumbs.db
