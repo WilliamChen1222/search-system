@@ -1,0 +1,25 @@
+K11A1126B	林悅春	67F	7209103	112.11.14	黃雯怡	1. Lt inferior cerebellum, NIHSS: 3, mRS: 2, onset 11/13 13:00 2. HTN 3. Af 4. Hyperlipidemia
+K11A1119A	蘇伍昭英	78F	1543664	112.11.14	黃雯怡	1. Acute Lt medial medulla infarction, onset time: 11/13 1300, initial NIHSS: 4, mRS: 2 2. Anti-HCV Reactive 3. UTI
+K11A1121A	楊淯婷	29F	7261137	112.11.14	黃雯怡	1. Seizure, generalized tonic clonic, cause to be determined 2.MDD (major depressive disorder) history
+K11A1122B	林麗卿	70F	4811232	112.11.17	黃雯怡	1. Lt hemisphere infarction, NIHSS:1, mRS: 1, onset 11/16 23:00 2. HTN
+K11A1108B	吳李珠	81F	4244477	112.11.17	黃雯怡	1.post-stroke epilepsy 2.Acute infarct in Lt corona radiata and basal ganglion  3.HTN 4.Dementia 5. Lt ICA severe stenosis
+K11A1119B	吳美珠	82F	4240325	112.11.18	黃雯怡	1.Rt carotid transient ischemic attack, ABCD2＝3~4 2.HTN 3.Dyslipidemia 4.Old Rt hemisphere infarction, no sequela
+K11A1110C	林遜揚	65M	4599423	112.11.14	朱俊學	1. Long extensive transverse myelitis(T1-T4) 2.Ankylosing spondylitis, pending HLA-B27 3. HBV postive
+K11A1107C	蘇理發	67M	4584146	112.11.15	朱俊學	1. TIA of Lt ICA,  favored thrombosis, ABCD2: 5, onset: 2023/11/15 18:30, mRS:1 2.HF 3. CAD-2 vessels 4.HTN 5.COPD
+K11A1119C	林玉堂	73M	7150516	112.11.17	朱俊學	1. Lt hemisphere infarction, NIHSS: 3, mRS: 1, onset 11/17 07:00 am 2. pAf, newonset 3. T2DM 3.Hyperlipidemia
+K11A1105B	汪赤楊	83M	1750681	112.11.18	朱俊學	1.Post-stroke epilepsy 2.Rt hemisphere CVA, pure motor type, thrombosis related, 2018 3.HTN 4.pAf under apixaban
+K11A1122C	夏秀霞	70F	4157729	112.11.18	朱俊學	1.Recurrent Rt hemisphere infarction, NIHSS＝3, onset 11/16, mRS＝1
+K11A1123B	黃瑞堅	73M	4848658	112.11.18	朱俊學	1.Lt hemisphere infarction, suspect recent infarction in left corona radiata, initial NIHSS＝14, onset unknown
+K11A1123B	黃裕華	60M	9883565	112.11.13	趙中豪	1. Suspect Rt pons recurrence infarction, NIHSS: 2, mRS: 1 onset 11/13 02:00am 2. Recent Rt hemisphere infarction, onset: 09/08 and DAPT on 09/08~ for 21 days 3. Dyslipidemia		
+K11A1110B	周武雄	80M	7131158	112.11.16	趙中豪	1. Lt hemisphere lacunar infarction 2. Hyperlipidemia 3. CKD, stage 3  4. BPH   
+K11A1111C	簡穗欉	66M	4841328	112.11.16	趙中豪	1. Suspect recurrent infarction on left hemisphere, r/o post stroke seizure 2. HTN 3. T2DM 4. Af under rivaroxaban
+K11A1125B	林靜	52F	4887373	112.11.17	趙中豪	1. Suspect Lt hemisphere infarction 2. Dyslipidemia(LDL 105) 3. Left total thyroidectomy on 2017
+
+K09C0978	洪仁傑	74M	7261144	112.11.15	李光永	1.Acute Lt hemisphere infarction, suspect thrombosis, NIHSS:17, onset time:unknown (last normal time:11/22)
+2.Suspect sepsis, cause need to determine 3.Elevated liver enzyme suspect dehyration related or underlying of hepatitis  4.T2DM 5.Hyperlipidemia 6.HTN
+K09C0976	林柳	83F	7261167	112.11.18	李光永	1. Lt hemisphere ischemic stroke, onset 11/18 7:30AM, inital NIHSS＝7 s/p tPA 0.9mg/kg, 2hrs NIHSS＝4 2.HTN 3.DM
+4.Dyslipidemia 5.AD
+K13B1321	賴文彬	50M	7123607	112.11.18	李光永	1.Suspect top of the basilar syndrome with right PCA infarction, embolic stroke, initial NIHSS＝33, with spontaneous emboli dissolving 2.HTN 3.Af
+*K13B1315	顏錦舉	71M	7183735	112.11.19	李光永	1. acute onset left hemisphere infarction onset 11/19 17:30, NIHSS: 23 s/p t-PA 0.9mg/kg 2. HTN 3. CAD 2 vessels s/p stenting
+f/u
+K11A1125A	蔡勇智	48M	7212230	112.11.09	龍彥儒	1. Subacute Rt parietal lobe and Lt cerebellar hemorrhage, r/o embolic stroke with hemorrhage transformation, NIHSS:2, mRS:1 2. Exertional dyspnea, r/o heart failure, r/o sequela of Influenza infection 3. ESRD 4.HTN 5. T2DM

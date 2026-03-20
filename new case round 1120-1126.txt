@@ -1,0 +1,20 @@
+K11A1125C	余福來	57M	4069999	112.11.20	朱俊學	1. Infarct in right ACA territory, onset time: unknown, favored thrombosis, initial NIHSS:16, mRS:4 2. Rhabdomyolysis 3. CAP, SP/C: Klebsiella pneumoniae 4. HTN 5.T2DM
+K11A1112B	李見煌	65M	4180521	112.11.20	朱俊學	1. Left MCA (M1 segment) tight stenosis with arteriosclerosis2. Hypertension
+K11A1105C	周美旦	84F	7159193	112.11.22	朱俊學	1. Infarct in right hemisphere, favored embolism, LKNT: 2023/11/20 23:00, initial NIHSS: 6, mRS: 3  2. Af 3. Hyperlipidemia
+K11A1126B	李梅華	54F	7261248	112.11.25	朱俊學	1.Acute Lt hemisphere infarcts MCA territory, thrombosis, NIHSS:7, mRs:4, onset: about 09:00, 11/25 2.Cardiac arrythmia f/u at 奇美H. without medication for about 2 years
+K11A1125A	游文正	47M	4945881	112.11.26	朱俊學	1. Syncope, r/o VBI, r/o cardiogenic syncope, r/o post-stroke epilepsy 2.HTN 3. Dyslipidemia 4. Mutiple CVA
+K11A1119B	張麗娟	63F	7142593	112.11.22	黃雯怡	1. Rt tentorial dural AVF s/p brain angiography, held on 11/23 due to thrombocytopenia 2. T2DM 
+3. Immune thrombocytopenia 4. Rt breast ductal carcinoma in situ.
+K11A1126A	林錫照	70M	4002718	112.11.23	黃雯怡	1.GTC attack, suspected insufficient ASMs 2.Epilepsy under depakine and zonisamide control 3.Tuberous sclerosis with multiple periventricular calcification  4.Old left frontal lobe infarction in 2014, under aspirin 5.Schizophrenia  6.HTN 7.Hyperlipidemia
+K11A1123A	田蔡麗美	79F	4037081	112.11.25	黃雯怡	1. Acute Lt hemisphere infarction, thrombosis, NIHSS:4, mRS:3, onset: 11/24, 17:30 2. Old bilateral basal ganglion hypodense lesion
+K11A1110A	廖新吉	79M	8863516	112.11.26	黃雯怡	1. Intermittent quadriparesis, dizziness, and diplopia, r/o vertebrobasilar insufficiency induced 2. T2DM 3.Hyperlipidemia 4. Old Rt CVA 2021
+K11A1118B	闕銘欽	64M	4592766	112.11.21	趙中豪	1. Acute Rt hemisphere infarction, suspect thrombosis, onset: 11/18 night 2.HTN 3.T2DM 4. Hyperlipidemia
+K11A1105B	蘇俐	64F	4818426	112.11.21	趙中豪	1. Dizziness, ptosis and gait disturbance, suspect stroke, rule out MG 2.Cardiac arrythmia diagnosed at 台大 H 3. HTN 4. Hyperlipidemia
+K11A1113	陳玉霞	71F	4829434	112.11.22	趙中豪	1. Rapidly progressive dementia, need to r/o metabolic/vascular/neurodegenerative/infectious/neoplasm 2.HTN 3.T2DM 4.CKD 5.old CVA
+K11A1108B	朱林玉霞	90F	2814423	112.11.24	趙中豪	1. Syphilis, suspect neurosyphilis(RPR 1:1; TPPA 1:80) 2. HTN 3. T2DM(HbA1c: 6.6)
+K11A1119B	郭佩宜	52F	7261262	112.11.26	趙中豪	1. GTC seizure, need to r/o syncope 
+K11A1121C	王文舉	76M	7119297	112.11.26	趙中豪	1. Infarct in Lt hemisphere, favored thrombosis, onset time: 2023/11/25 morning, initial NIHSS: 8, mRS: 4 2.HTN 3.T2DM 4. Dyslipidemia
+K13B1302	鄭昭南	71M	7053863	112.11.26	李光永	1. Acute Rt hemisphere stroke, NIHSS: 13, onset on 11/26 11:00, suspected embolic stroke, SEDAN score:2 2. AfRVR
+
+f/u
+K11A1119B	吳美珠	82F	4240325	112.11.18	黃雯怡	1.Rt carotid transient ischemic attack, ABCD2＝3~4 2.HTN 3.Dyslipidemia 4.Old Rt hemisphere infarction, no sequela

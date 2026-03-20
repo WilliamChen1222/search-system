@@ -1,0 +1,14 @@
+K11A1123C	蔡福來	58M	7261045	112.11.07	林舜文	1. Rt hemisphere infarct, NIHSS:14, mRS:4, thrombosis, onset: unknown 2.HTN 3. hyperlipidemia 
+K11A1107C	陳翠玲	71F	7206662	112.11.09	林舜文	1. Acute Lt hemisphere stroke, onset on 11/9 06:00 NIHSS:1, mRS:1 2. COPD 3.Hx of TB infection
+K11A1105C	鍾松英	80F	4067556	112.11.10	林舜文	1. Sudden LOC r/o focal seizure with impaired awareness r/o syncope 2.Lt ICA aneurysm, 2.3 cm 3.HTN 4.Hyperlipidemia 
+K11A1111C	周中原	76M	7240070	112.11.11	林舜文  	1.An aneurysm (3 mm) or infundibulum at left communicating ICA 2.CAD 3.dyslipidemia
+K11A1126C	簡阿秀	71F	7190221	112.11.06	李光永	1. Suspect left hemipshere infarction 2. HTN 3.DM 4.history of AF 5.ESRD
+K11A1105B	陳枝財	76M	4045941	112.11.06	李光永	1. Rt cervical carotid critical stenosis, stenotic index estimated about 80% 2. HTN 3.Hyperlipidemia
+*K11A1120A	郭志明	55M	7261050	112.11.07	李光永	1. Acute ischemic stroke in right hemisphere, favored thrombosis, LKN time: 2023/11/06 21:25, initial NIHSS: 19, mRS:4 s/p tPA to NIHSS:10 2. Alcoholism 3. Left clavicle fracture
+K11A1125B	趙金生	61M	4209265	112.11.07	李光永	1. Lt lateral pons infarction, onset: 2023/11/06 2. Recent Rt hemisphere infarction, onset:2023/9/18 3. HTN 4. Hyperlipidemia
+K11A1118B	鄒坤寅	76M	4526208	112.11.10	李光永	1. Acute stroke in Rt MCA territory, favored thrombosis, onset time: 2023/11/10 16:00, initial NIHSS:11, mRS:3 s/p t-PA NIHSS:3 2. DM 3.HTN 4.Hyperlipidemia
+K11A1112C	陳宏杰	43M	10234848	112.11.11	李光永	1.Acute Lt hemisphere infarction, pure motor lacune, NIHSS:4, mRS:1, onset: 2023/11/10 afternoon 2.HTN 3.HF
+K11A1125A	蔡勇智	48M	7212230	112.11.09	龍彥儒	1. Subacute Rt parietal lobe and Lt cerebellar hemorrhage, r/o embolic stroke with hemorrhage transformation, NIHSS:2, mRS:1 2. Exertional dyspnea, r/o heart failure, r/o sequela of Influenza infection 3. ESRD 4.HTN 5. T2DM
+K11A1121A	王珮珊	36F	22061265	112.11.09	龍彥儒	1. Acute urine retention and nasal speech, r/o sequela of bronchitis, r/o urinary tract infection, r/o relapse of multiple sclerosis 2. Multiple sclerosis, EDSS:2 (urine retention and chronic constipation)
+K11A1107A	林天生	62M	4939558	112.11.10	龍彥儒	1.Ataxia gait, favor flurazepam overdose related r/o conus medullaris
+

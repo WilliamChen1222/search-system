@@ -1,0 +1,20 @@
+K11A1111A	杜鴻仁	75M	4384449	112.12.04	龍彥儒	1. Acute left hemisphere ischemic stroke 2. HTN 3. DM 4. Pheochromocytoma
+K11A1121B	趙清標	57M	7236089	112.12.05	龍彥儒	1. Left hemisphere ischemic stroke 2. Hyperlipidemia
+K11A1119B	楊宗雄	83M	4268865	112.12.06	龍彥儒	1. Right hemisphere ischemic stroke 2.Hyperlipidemia 3.HTN 4. COPD 5. Depression
+
+K11A1126C	李連中	46M	7047791	112.12.04	蘇豐傑	1. Acute right hemisphere stroke, NIHSS:3 
+K11A1123C	吳智杰	63M	4392490	112.12.05	蘇豐傑	1. Right carotid TIA 2. HTN 3. Hyperlipidemia
+K11A1109B	林貴月	77F	2197286	112.12.08	蘇豐傑	1. Acute right hemisphere infarction, NIHSS: 6 2. DM 3. HTN 4. HF 5. CAD
+K11A1123A	劉逸鵬	61M	7155672	112.12.08	蘇豐傑	1. Acute left and dorsal pons infarction 2. Hypertension 3. DM 4. Hyperlipidemia
+K11A1125A	陳國	85M	7261369	112.12.08	蘇豐傑	1. Acute right hemisphere infarction 2. Atrial fibrillation 3. HF 4. PAOD
+K11A1112B	林添進	58M	4039897	112.12.10	蘇豐傑	1.Multifocal stenosis at bilateral ICA, basilar tip, with wall irregularity of bilateral MCA 2. NPC, T3N2M0, s/p CCRT 3.HTN 4.Dyslipidemia
+K11A1105A	邱玉桂	76F	4100606	112.12.06	魏怡嘉	1. Acute stroke in right frontal lobe and basal ganglia, NIHSS: 14 2. HTN 3. Af 4. RA
+K11A1112B	徐水發	57M	4655242	112.12.06	魏怡嘉	1. Presumed intramedullary neoplasm at C6-7, r/o low-grade glioma
+K11A1112A	游萬興	51M	4266917	112.12.09	魏怡嘉	1.Acute left putamen ICH 2.HTN 3.Right ankle gout attack
+K11A1123C	江昌統	67M	4228288	112.12.09	魏怡嘉	1.Right cerebellar infarction 2.Dyslipidemia
+K11A1111A	杜鴻仁	75M	4384449	112.12.04	龍彥儒	1.Left hemisphere ischemic stroke, NIHSS:2 2.HTN 3.DM, A1C:7.4% 3.Dyslipidemia, LDL 107 4.Pheochromocytoma
+K11A1119B	楊宗雄	83M	4268865	112.12.06	龍彥儒	1.Right hemisphere ischemic stroke, NIHSS:4 2.Hyperlipidemia 3.HTN 4.COPD
+K09C0965	林志杰	38M	7261351	112.12.06	林舜文	#1. Left hemisphere infarction, NIHSS: 18, r/p tPA and IA 2. Hyperthyroidism
+
+f/u
+K11A1120A	陳淑敏	59F	1103301	112.12.03	魏怡嘉	1. general myalagia accompanied with VEP prolong, r/o MS 2. Hypothyroidism, 3. C4-6 spinal stenosis, disc bulging

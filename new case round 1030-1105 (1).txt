@@ -1,0 +1,29 @@
+K11A1119B	蔡清根	93M	4945023	112.10.30	龍彥儒	1.Ischemic stroke in Lt hemisphere, thrombosis, initial NIHSS: 3, mRS: 4 on 10/19 2. HTN 3. Chronic duodenal ulcer 
+K11A1119C	卓政雄	80M	4516460	112.10.30	龍彥儒	1.Ischemic stroke Lt MCA , thrombosis, onset 10/29 1430, initial NIHSS: 21, mRS: 4 2.Old right hemisphere CVA s/p t-PA 3.HTN 4. Dyslipidemia
+K11A1123A	戴偉凌	47M	1154714	112.10.31	龍彥儒  	1.Ischemic stroke Rt MCA, thrombosis, onset time 10/30 noon, initial NIHSS: 2, mRS: 1 2. Suspected alcohol withdrawal syndrome
+K11A1123C	蔡美月	65F	4926211	112.11.01	龍彥儒  	1.Ischemic stroke Lt hemisphere, thrombosis, onset 10/31, initial NIHSS: 7, mRS: 2 2.HTN 3.DM 4.Dyslipidemia
+K11A1125A	李台生	67M	4912075	112.11.01	龍彥儒 	1.Recurrent Rt hemisphrere infarction, lacunar?, NIHSS:4, mRS:4, onset: 2023/10/31 10:00? 2. T2DM 3. Dyslipidemia 4. Recent Rt CVA
+K11A1123B	余南興	57M	4145155	112.11.01	龍彥儒 	1.Lt corona radiata infarction, thrombosis, NIHSS: 2, mRS: 1, onset 10/30 noon 2.Bilateral ICA dissection s/p stenting on 2020 3. T2DM 4.HTN
+K11A1122B	羅蔡玉淨	89F	4112094	112.11.01	龍彥儒	1.Vertebrobasilar insufficiency 2. T2DM, HbA1c: 7.3 3. Primary hyperthyroidism
+K11A1120B	簡吳秀	79F	4039717	112.11.02	龍彥儒  	1.Righr ICA TIA, ABCD2: 5 2.HHS 3.T2M 4. CKD stage 4.
+K11A1125C	馬重興	68M	4094772	112.11.03	龍彥儒	1.Suspect left hemishpere infarction, thrombosis, NIHSS:5, mRS:4, onset 11/02: 10:30 2. Thrombocytopenia, suspect chemotherapy related
+K11A1126A	王泓鈞	15M	4546065	112.11.05	龍彥儒  	1.Intermittent seizure attack, infection related 2.Lekocytosis, favor URI related 3.Epilepsy since 6 y/o, favor Lennox-Gastaut syndrome, s/p DBS 
+K11A1111A	簡陳阿秀	78F	4034986	112.10.31	林舜文	1.Rt hemisphere ischemic stroke 2.HTN 3.gastric ulcer 4.HCV carrier 
+K11A1105B	陳建福	55M	7014549	112.10.31	林舜文	1.Progressive bilateral lower limb numbness, sorness, and weakness, L1-3 spondylosis +abnormal intensities at right L1 and L2 pedicles 2. HTN
+K11A1122A	童詹翠華	64F	4890104	112.10.31	林舜文	1.Phenytoin overdose related ataxia 2. HTN 3. Epilepsy
+K11A1123B	葉葉財	69M	806941	112.11.02	林舜文	1.VBI, r/o peripheral vertigo 2.CAD s/p CABG 3.Hyperlipidemia 4.Left SAH at MCA site in 2023/03
+K11A1118B	何勝隆	45M	7026409	112.11.03	林舜文	1.Rt hemisphere ischemic stroke 2.Lt low limbs twitching, suspect seizure attack  3.Rt putaminal ICH, onset 07/15, with left hemiparesis, mRS: 4
+K11A1108B	韋金海	61M	4148016	112.11.04	林舜文	1.Intermittent behavior change, suspected delirium, r/o epilepsy related to sleep-deprivation 2. MDD 3. leukocytosis, pneumonia
+K11A1106A	湯國增	64M	4819816	112.11.05	林舜文	1.Rt ICA aneurysm s/p stent-assisted coil embolization, with recurrence 2.old CVA 3.old ICH
+K11A1112A	林學修	58M	4881522	112.10.31	李光永	1. Guillain-Barre syndrome, onset: within 8 weeks 2. RUL adenocarcinoma T4N2M1c, stage IVb 3. Retinal detachement
+K11A1101A	顏慎瑤	58F	4258558	112.11.02	李光永	1. GTC attack, favor old ICH related 2.Right caudate hemorrhage in 2017 3.Left basal ganglia hemorrhage in 2016 4.HTN
+K11A1103A	黃小夜	81F	1005066	112.11.01	李光永	1.Acute onset generalized myoclonus not favor right pons lesion related, need to r/o subcortical/spinal myoclonus 2.Subacute right pons infarction, thrombosis, NIHSS:2, mRS:3, onset: suspect before 11/1
+K11A1106C	吳國淋	64M	4127489	112.11.03	李光永	1.Rt hemisphere ishcemic stroke, NIHSS＝3, onset 11/3 3PM 2.Multiple old infarction in bilateral hemisphere
+*K09C0972	郭長清	47M	4635246	112.11.02	趙中豪	1.Rt MCA territory infarction, M1 occlusion favor intracranial atherosclerotic disease, initial NIHSS＝11, s/p tPA + intracranial stenting
+2.HTN 3.CKD 4.Dyslipidemia, LDL 103 (8/21)
+
+
+f/u
+K11A1113	林建佑	62M	4183918	112.10.24	黃雯怡	1. Acute right cerebellar and dormal midbrain infarction, NIHSS:1 2. Heart failure
+K11A1101B	陳德和	60M	3384414	112.10.24	黃雯怡	1. Chronic headache and dizziness, r/o VBI 2. HTN 3. Hyperlipidemia
+K11A1111C	蘇榮樹	86M	7036018	112.10.26	魏怡嘉	1. Recent right hemisphere infarction, NIHSS:17 2. GTC seizure 3. HHS 4. DM 5. HTN

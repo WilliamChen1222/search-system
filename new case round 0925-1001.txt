@@ -1,0 +1,19 @@
+
+K11A1109B	朱王淑換	66F	213023	112.09.25	朱俊學	1. Lt carotid TIA,  onset on 9/25 01:00AM 2.HTN 3.Dyslipidemia 4. suspected old CVA over Lt hemisphere	
+K11A1111B	吳來富	72F	4933714	112.09.26	朱俊學	1. Rt Bell's palsy 2. HTN 3. Hyperlipidemia 4. T2DM 5. 4. Slow-fast form atrioventricular nodal reentrant tachycardia, s/p successful RF modification of the AV node
+K11A1101A	黃徐鑾	88F	4165034	112.09.29	朱俊學	1. Transient facial palsy and slurred speech with bilateral arm twiching, r/o TIA and seizure 2. HTN 3. hyperlipidemia 
+K11A1111A 	郭俊男	58M	7178681	112.09.29	朱俊學	1. Acute Rt hemisphere infarction, thrombosis, NIHSS:1 (9/29 20:00)-＞ 11 (last normal time: 9/29, 22:00) -＞ 6 (9/30 00:30 after CT perfusion), mRS:4
+K11A1126C	李武雄	52M	4386961	112.09.29	朱俊學	1. First time seizure,favor focal onset(right finger twiching) to generalized 2. Post-poliomyelitis sequla at right arm(＜1y/o) 3. Suspect DM
+K11A1118B	吳秀人	 84M	20942417	112.10.01	朱俊學	1.Lt focal with aware motor onset seizure, suspected post stroke related 2.Subacute or old right hemisphere infarction
+
+K11A1126A	詹翔帆	43M	7167272	112.09.27	龍彥儒	1. Rt eyelid ptosis and swelling for two weeks, with recent diplopia while gazing to the right and downward, r/o ocular myasthenia gravis
+K11A1113	林慧程	55F	4051278	112.09.28	龍彥儒	1. Rt hemisphere infarction, suspect embolism, NIHSS:0, mRS:1 onset:suspect 9/9 2.HTN 3.Hyperlipidemia
+K11A1120C	彭綾宣	19F	4519481	112.09.28	龍彥儒	1.Recurrent GTCs attack, favor insufficiency depakine concentration level 3.Autism with mental retardation 3.Epilepsy history
+K11A1125A	莊日紅	68F	7067939	112.09.28	龍彥儒	1. Lt hemisphere infarction, thrombosis?, NIHSS:3, mRS:3, onset:9/26 morning 2. Hyperlipidemia  3. Old right hemiphere infarction, July 2023. 
+K11A1101B	蔡慧珊	63F 	4945632	112.10.01	龍彥儒	1.Acute Lt hemisphere infarction, lacune, NIHSS:2, mRS;1, onset:2023/9/29 2.HTN  3.Type 2 DM
+
+K11A1108C	許信昌	79M	4941690	112.09.26	趙中豪	1. Urinary incontinence and memory impairement suspect NPH, r/o seizure attack 2.History of duodenal ulcer bleeding and gastric ulcer 3.HTN 
+K11A1123B	廖顯奇	68M	4567672	112.09.27	趙中豪	1. Lt hemisphere infarction, onset 09/19 2. HTN 3. T2DM 4. L4/5 HIVD s/p OP
+K11A1123A	吳惠華	76F	7135461	112.10.01	趙中豪	1.GTC attack, r/o hyponatremia provoked, CVA related, Rt hemisphere insult provoked 2.Hyponatremia 3.Hypokalemia 4.Fever, favor HAP related
+K11A1107B	黃謝糸	86F	950507	112.10.01	趙中豪	1.Recurrent Rt hemisphere infarction, thrombotic, NIHSS:10, mRS:4, onset: 2023/9/29 2.HTN 3.Rt hemisphere infarction on 2023/9/25
+
